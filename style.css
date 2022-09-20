@@ -1,0 +1,58 @@
+
+
+body{
+    background-image: url(images/backimage2.jpg);
+}
+ table{
+    background-color: white;
+ }           
+.ul1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+
+}
+
+a{
+    float:left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: blue;
+
+}
+/* 4th lab sheet */
+
+div.newslayout{
+    
+    border:3px solid purple;
+    margin: 25px 20px 20px 20px;
+
+}
+.bttn1{
+    margin: 8px 4px 4px 4px;
+    width: 20%;
+    height: 50px;
+    background-color: pink;
+    font-size: 16px;
+    font-weight: bold;
+}
+.text1{
+    font-size: 16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    color: #000;
+    font-weight: normal;
+    text-decoration: none;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+}
